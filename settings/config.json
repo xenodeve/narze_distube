@@ -1,0 +1,25 @@
+{
+    "token": "",
+    "clientId": "",
+    "guildId": "",
+    "embed_color": "#f2690e",
+    "embed_fail": "#FF0000",
+    "clientId_spotify": "",
+	"clientSecret_spotify": "",
+    "cookie_ytm":"",
+    "nodes": [
+		{
+			"host": "127.0.0.1",
+			"port": 2333,
+			"password": "xeno",
+			"regions": ["thailand"],
+			"retryAmount": 20,
+			"retryDelay": 6000,
+			"secure": false,
+			"version": "v4"
+		}
+	],
+	"search_plat": "ytmsearch",
+    "wait_load": "https://youtu.be/WSd9b_r30Rw",
+	"website": "https://www.xenoprofile.tech/"
+}

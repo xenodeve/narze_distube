@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/voice": "^0.16.1",
+    "@distube/deezer": "^1.1.0",
+    "@distube/soundcloud": "^1.3.3",
+    "@distube/spotify": "^1.6.0",
+    "@distube/yt-dlp": "^1.1.3",
+    "@distube/ytsr": "^2.0.0",
+    "@ksolo/spotify-search": "^1.0.0",
+    "@silent-killer/killer-spotify-searching": "^1.0.5",
+    "@steffenkabus/node-youtube-music": "^0.11.2",
+    "chalk": "^4.1.2",
+    "discord.js": "^14.14.1",
+    "distube": "^4.1.1",
+    "erela.js": "github:Tomato6966/erela.js",
+    "ffmpeg-static": "^5.2.0",
+    "install": "^0.13.0",
+    "libsodium-wrappers": "^0.7.13",
+    "node-youtube-music": "^0.10.3",
+    "npm": "^10.5.0",
+    "spotify": "^0.3.0",
+    "spotify-node-wrapper": "^2.5.0",
+    "spotify-web-api-node": "^5.0.2",
+    "youtube-music-api": "^1.0.6",
+    "youtube-sr": "^4.3.10",
+    "ytmusic": "^0.0.9"
+  }
+}
